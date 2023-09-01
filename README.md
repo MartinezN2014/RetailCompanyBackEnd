@@ -1,4 +1,4 @@
-# Nelson's Employee Tracker MySql App
+# Retail Company Back End Assignment
 
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
